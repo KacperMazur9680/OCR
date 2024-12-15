@@ -1,0 +1,15 @@
+customtkinter==5.2.2
+deskew
+numpy==1.25.2
+opencv_python
+opencv_python_headless
+paddleocr==2.9.1
+paddlepaddle
+pandas==1.4.3
+Pillow==11.0.0
+python_docx==1.1.2
+reportlab==4.2.5
+torch 
+torchaudio
+torchvision 
+transformers==4.46.2
